@@ -75,10 +75,10 @@ I'm passionate about **quality, attention to detail, and continuous learning**, 
 ### 📊 GitHub Journey
 
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ivonne-t&theme=rose_pine&background=000000" width="600"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=IvonneValenzuela&theme=rose_pine&background=000000" width="600"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivonne-t&layout=compact&theme=rose_pine" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvonneValenzuela&layout=compact&theme=rose_pine" width="600"/>
 </div>
 
 ---
