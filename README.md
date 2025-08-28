@@ -23,7 +23,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Hi there! I'm Ivonne, based in New Zealand, and currently building my career in **Software Testing**.  
 
 I have **applied experience** in **manual, exploratory, and basic automated testing**, using tools like **Cypress, Postman, and DevTools**.  
