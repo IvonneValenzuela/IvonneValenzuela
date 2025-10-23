@@ -26,7 +26,7 @@
 ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Hi there! I'm Ivonne, based in New Zealand, and currently growing in the world of **Software Testing**.  
 
-I have hands-on experience in **manual, exploratory, and automated testing**, using tools like **Postman and Playwright**.  
+I have hands-on experience in *manual, exploratory, and automated testing*, using tools like *Postman and Playwright*.  
 I’m passionate about building things that work beautifully and make sense and I’m currently building my own automation projects to keep learning and strengthening my automation and testing skills.  
  
 
@@ -89,10 +89,10 @@ I’m exploring automation with Playwright, diving deeper into API testing with 
 ---
 
 ## :stars: Strengths  
-- **Attention to Detail**   
-- **Organisational Skills**   
-- **Analytical Mindset**  
-- **Collaboration & Empathy**   
+- Attention to Detail   
+- Organisational Skills 
+- Analytical Mindset  
+- Collaboration & Empathy   
 
 ---
 
