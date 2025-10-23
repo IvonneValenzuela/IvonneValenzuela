@@ -24,12 +24,11 @@
 ---
 
 ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Hi there! I'm Ivonne, based in New Zealand, and currently building my career in **Software Testing**.  
+Hi there! I'm Ivonne, based in New Zealand, and currently growing in the world of **Software Testing**.  
 
-I have **applied experience** in **manual, exploratory, and basic automated testing**, using tools like **Cypress, Postman, and DevTools**.  
-I'm passionate about **quality, attention to detail, and continuous learning**, and I'm currently working on **real-world projects** to strengthen my skills.
-
-✨ *Always curious. Always improving.* ✨
+I have hands-on experience in **manual, exploratory, and automated testing**, using tools like **Postman and Playwright**.  
+I’m passionate about building things that work beautifully and make sense and I’m currently building my own automation projects to keep learning and strengthening my automation and testing skills.  
+ 
 
 ---
 
@@ -54,27 +53,31 @@ I'm passionate about **quality, attention to detail, and continuous learning**, 
 **Tools & Workflow**  
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>
 
 </div>
 
 ---
 
-### 🌱 Currently Learning
-- Playwright (TypeScript, locators, tracing)  
-- Cypress (custom commands, fixtures)  
-- Postman (API testing with JS scripts)  
-- Git & GitHub (branches, pull requests, issues)
+### 🏄 Currently Learning
+
+I’m exploring automation with Playwright, diving deeper into API testing with Postman, and getting more confident using Git and GitHub while building my projects.
 
 ---
 
-### 📚 Certifications
+### 🔭 I’m currently working on 
+[Automation project](https://github.com/IvonneValenzuela/Automation-Playwright)
+
+---
+
+### 🔖 Certifications
 ![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_Level-blue?style=for-the-badge&logo=google-scholar&logoColor=white)  
 **ISTQB Foundation Level — 2022**
 
 ---
 
-### 📊 GitHub Journey
+### :octocat: GitHub Journey
 
 <div align="center">  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=IvonneValenzuela&theme=rose_pine&background=000000" width="600"/>
@@ -85,12 +88,7 @@ I'm passionate about **quality, attention to detail, and continuous learning**, 
 
 ---
 
-### ⭐ Featured Projects
--Coming soon
-
----
-
-## 💡 Strengths  
+## :stars: Strengths  
 - **Attention to Detail**   
 - **Organisational Skills**   
 - **Analytical Mindset**  
@@ -111,5 +109,5 @@ I'm passionate about **quality, attention to detail, and continuous learning**, 
 
 ---
 
-> *“Always curious. Always improving.”* 
+✨*learning, growing, and doing my best*✨
 
