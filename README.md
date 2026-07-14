@@ -6,17 +6,16 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Ivonne-t&color=ff7eb6" alt="Profile views counter"/>
-  <h3> Kia ora, I'm Ivonne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="waving hand"/></h3>
-   <h3> Software Developer | Software Testing | Automation </h3>
+  <img src="https://komarev.com/ghpvc/?username=IvonneValenzuela&color=ff7eb6" alt="Profile views counter"/>
+  <h3> Kia ora! I'm Ivonne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="waving hand"/></h3>
+   <h3> Software Developer | Software Testing </h3>
 
 </div>
 
 ---
 
 ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-I'm a software developer based in New Zealand, currently building my career in tech. I'm passionate about building things that work beautifully and make sense. I enjoy exploring new technologies, solving problems, and continuously learning along the way.
- 
+I'm a software developer based in New Zealand, currently building my career in tech. I'm passionate about creating software that works beautifully and makes sense. I enjoy exploring new technologies, solving problems, and continuously learning along the way.
 
 ---
 
@@ -35,7 +34,7 @@ I'm a software developer based in New Zealand, currently building my career in t
 
 **Testing**  
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="35" height="35"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Selenium" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
 
 **Tools**  
 <img src="https://skillicons.dev/icons?i=git" width="35" height="35" alt="Git"/>
@@ -48,26 +47,26 @@ I'm a software developer based in New Zealand, currently building my career in t
 
 ### 🔭 Featured Work
 
-Explore my GitHub repositories to see my latest software development and software testing projects.
+Explore my GitHub repositories to see my latest development and testing projects.
 
 ---
 
 ### :octocat: GitHub Journey
 
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=IvonneValenzuela&theme=rose_pine&background=000000" width="600"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=IvonneValenzuela&theme=rose_pine&background=000000" width="550"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvonneValenzuela&layout=compact&theme=rose_pine" width="600"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IvonneValenzuela&layout=compact&theme=midnight-purple" width="550"/>
 </div>
 
 ---
 
 ### 🌸 Beyond Tech
 - ☕ Coffee tester
-- 😺 Cats & meditation lover  
-- 🎨 Creativity fuels my being human 
+- 😺 Cats & meditation lover
+- 🎨 Creativity is part of who I am 
 
 ---
 
@@ -75,7 +74,4 @@ Explore my GitHub repositories to see my latest software development and softwar
 - [LinkedIn](https://www.linkedin.com/in/ivonnevalenzuela/)  
 - ivonne.valenzuela.m@gmail.com  
 
----
-
-✨*learning, growing, and doing my best*✨
 
