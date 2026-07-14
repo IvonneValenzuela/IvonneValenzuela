@@ -50,15 +50,6 @@ I'm a software developer based in New Zealand, currently building my career in t
 
 Explore my GitHub repositories to see my latest software development and software testing projects.
 
-🔹[Bug Reporting Practice](https://github.com/IvonneValenzuela/repositories)
-
-
----
-
-### 🔖 Certifications
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_Level-blue?style=for-the-badge&logo=google-scholar&logoColor=white)  
-**ISTQB Foundation Level — 2021**
-
 ---
 
 ### :octocat: GitHub Journey
@@ -73,21 +64,10 @@ Explore my GitHub repositories to see my latest software development and softwar
 
 ---
 
-### :stars: Strengths  
-- Attention to detail
-- Analytical thinking
-- Clear communication of findings
-- Curiosity and exploratory mindset
-- Continuous learning mindset
-- Structured bug investigation
-  
-
----
-
 ### 🌸 Beyond Tech
-- 📖 Passionate about continuous self-growth  
-- ☕ Coffee & 😺 Cats lover  
-- 🎨 Creativity fuels my testing mindset  
+- ☕ Coffee tester
+- 😺 Cats & meditation lover  
+- 🎨 Creativity fuels my being human 
 
 ---
 
