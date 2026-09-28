@@ -58,7 +58,7 @@ Explore my GitHub repositories to see my latest development and testing projects
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IvonneValenzuela&layout=compact&theme=midnight-purple" width="550"/>
+ <img src="https://github-readme-stats-three-pi-27.vercel.app/api/top-langs/?username=IvonneValenzuela&layout=compact&theme=ambient_gradient" width="550"/>
 </div>
 
 ---
